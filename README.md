@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TruptiZore
-- 👀 I’m interested in Computer 
-- 🌱 I’m currently learning Computer Science
+- 👀 I com[pleted my diploma in Computer Science n Engineering. 
+- 🌱 I’m currently learning Artificial Inteligence n Machine Learning.
 - 💞️ I’m looking to collaborate on beat deals
-- 📫 How to reach me .... 
+
 
 <!---
 TruptiZore/TruptiZore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
